@@ -68,7 +68,7 @@ const questions = [
 // function to initialize app
 function init() {
     inquirer.prompt(questions).then(data => {
-        fs.writeFileSync("readME12.md", generateMarkdown(data));
+        fs.writeFileSync("readME13.md", generateMarkdown(data));
     });
 }
 
