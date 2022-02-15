@@ -104,7 +104,7 @@ ${data.tests}
 ${data.contributing}
 
 ## Questions
-### Github: ${data.github}
+### Github: [${data.github}](https://github.com/${data.github})
 ### Email: ${data.email}
 ${data.questions}
 `;
