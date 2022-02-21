@@ -53,6 +53,9 @@ N/A
 ## Contributing
 Please make sure to create a feature or bug branch off of the develop branch and push then make a pull request when ready to merge with the develop branch so all updates to the code can be checked and approved.
 
+## Link to Walkthrough Video
+https://drive.google.com/file/d/1Dxou9_hgLlCXQ_hQAQ534k0WvJ21_euL/view
+
 ## Questions
 ### Github: lillylav
 ### Email: lilly.leiran@gmail.com
